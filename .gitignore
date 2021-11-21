@@ -1,1 +1,11 @@
 .DS_Store
+npm_modules
+npm_modules/*
+node_modules
+node_modules/*
+.env
+logs/*
+logs
+examples/*
+examples
+.env.example
